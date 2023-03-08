@@ -2,7 +2,7 @@ import React from "react";
 
 import { Link } from "react-router-dom";
 
-function MentorList({ mentordata, DeleteMentor }) {
+function MentorList({ mentordata }) {
   return (
     <>
       <tr>
